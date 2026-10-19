@@ -1,18 +1,33 @@
-# 💫 About Me:
-Hello, I'm Ward Farah.<br><br>I am a high school senior with a strong passion for Artificial Intelligence and Cybersecurity. My goal is to build a solid foundation before university by continuously learning, earning internationally recognized certifications, and developing practical projects that strengthen both my technical and problem-solving skills.<br><br>I believe that continuous learning, discipline, and hands-on experience are the keys to success in technology. Every project I complete and every certification I earn is another step toward becoming a skilled professional who can create innovative solutions and drive a meaningful impact.<br><br>Currently, I am focused on expanding my knowledge in AI, Cybersecurity, and Software Development while building a portfolio that reflects my growth, dedication, and long-term vision.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is WARD FARH
+==================================================================================================================================
 
+IT Student | Exploring Cybersecurity, Artificial Intelligence & Computer Science
+--------------------------------------------------------------------------------
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wardmohammadfarah1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ward-mohammad-farah-23a972426/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:WardMohammadFarah1@gmail.com) 
+I'm an IT student with a strong interest in technology and how it can solve real-world problems. I'm particularly interested in Cybersecurity, Artificial Intelligence, and Computer Science, and I'm currently exploring these fields to discover the path that best matches my interests and goals.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wardmohammadfarah&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=wardmohammadfarah&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wardmohammadfarah&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm focused on continuously learning, developing my technical skills, and gaining hands-on experience through practical projects.
 
----
-[![](https://komarev.com/ghpvc/?username=wardmohammadfarah&icon=0&color=1)](https://visitcount.itsvg.in)
+My goal is to grow as a technology professional, build useful things, and prepare myself for future opportunities in the IT industry.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🌍  I'm based in Jordan
+* 🖥️  See my portfolio at [COMMING SOON](http://soon)
+* ✉️  You can contact me at [wardmohammadfarah1@gmail.com](mailto:wardmohammadfarah1@gmail.com)
+* 🧠  I'm currently learning Python Programming - Cybersecurity Fundamentals - Artificial Intelligence Fundamentals - Computer Science Fundamentals - Git & GitHub- Exploring Courses Across Different IT Fields
+* 👥  I'm looking to collaborate on Freelance Opportunities, Collaborative Projects, Startup Ventures, Open-Source Contributions, and IT Projects
+* 💬  Ask me about Aspiring Entrepreneur | Passionate about Business and Technology and Building Startups.
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/wardmohammadfarah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Ward Mohammad Farah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/wardmohammadfarah"><img src="https://github-readme-stats.vercel.app/api?username=wardmohammadfarah&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="wardmohammadfarah's GitHub stats" /></a>
+
+<a href="https://github.com/wardmohammadfarah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardmohammadfarah&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
